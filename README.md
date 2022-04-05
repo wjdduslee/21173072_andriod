@@ -13,7 +13,7 @@
 
     : activity_main.xml 소스파일 캡처화면 첨부
 
-    : Mainactivity.java 소ㅡ파일 캡처화면 첨부
+    : Mainactivity.java 소파일 캡처화면 첨부
 
     : 실행 결과 캡처화면 2개
 - <img width="" height="" src="./pic/5주차_acmain.png"></img>
