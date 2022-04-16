@@ -34,4 +34,4 @@
 - <img width="" height="" src="./pic/6st_넓이.png"></img>
 - <img width="" height="" src="./pic/6st_높이.png"></img>
 - <img width="" height="" src="./pic/6st_버튼 누르기 전 화면.png"></img>
-- <img width="" height="" src="./pic/6st_버튼 누른  화면.png"></img>
+- <img width="" height="" src="./pic/6st_버튼 누른 뒤 화면.png"></img>
