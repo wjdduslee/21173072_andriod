@@ -20,3 +20,18 @@
 - <img width="" height="" src="./pic/5주차_mainac.png"></img>
 - <img width="" height="" src="./pic/5주차 첫화면.png"></img>
 - <img width="" height="" src="./pic/5주차 두번째화면.png"></img>
+# 6주차 (2022-04-16)
+두개의 버튼을 추가 삽입 
+
+• 한 개의 버튼을 클릭하면 
+
+    1. Toast.makeText() 이용 하단에 width 크기 값을 표시 (Interger.toString() 함수 사용) 
+
+• 또 다른 버튼을 클릭하면 
+
+    2. Toast.makeText() 하단에 height 크기 값을 표시 (Interger.toString() 함수 사용)
+
+- <img width="" height="" src="./pic/6st_넓이.png"></img>
+- <img width="" height="" src="./pic/6st_높이.png"></img>
+- <img width="" height="" src="./pic/6st_버튼 누르기 전 화면.png"></img>
+- <img width="" height="" src="./pic/6st_버튼 누른  화면.png"></img>
