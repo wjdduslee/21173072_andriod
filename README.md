@@ -44,4 +44,4 @@
 - <img width="" height="" src="./pic/10st2.png"></img>
 - <img width="" height="" src="./pic/10st3.png"></img>
 - <img width="" height="" src="./pic/10주차메인.png"></img>
-- <img width="" height="" src="./pic/10.png"></img>
+- <img width="" height="" src="./pic/10주차메뉴.png"></img>
